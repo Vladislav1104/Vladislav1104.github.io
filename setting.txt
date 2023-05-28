@@ -1,0 +1,4 @@
+{"site_url":"http://localhost:8000",
+"site_title": "NexT2K - разработчик",
+"description": "Этот сайт написан HTTPCreatorBot",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask"}
